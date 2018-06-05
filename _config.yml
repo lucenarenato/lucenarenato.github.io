@@ -1,0 +1,38 @@
+# Site settings
+title: "Renato Lucena"
+email: cpdrenato@gmail.com
+description: "Site pessoal Renato de Oliveira Lucena (cpdrenato)"
+baseurl: ""
+url: "http://renatolucena.ml/"
+title_description: "Site pessoal Renato de Oliveira Lucena (cpdrenato). Tentar compartilhar algumas coisas que aprendo ou estudo durante minha jornada"
+title_image: "https://s.gravatar.com/avatar/9c822eac3f4b67e56e22f42dcc291182?s=80"
+google_analytics: "UA-109029815-1"
+disqus_account: lucenarenato.github.io
+github_repository: https://github.com/jacobtomlinson/carte-noire
+addthis_id: ra-586d63a90af5cb0a
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: @cpdrenato
+github_username:  lucenarenato
+instagram_username: cpdrenato
+reddit_username:
+linkedin_link: https://www.linkedin.com/in/renato-de-oliveira-lucena-33777133/?trk=nav_responsive_tab_profile
+google_plus_link: https://plus.google.com/u/0/112369394165921791214
+stackoverflow_link: https://stackexchange.com/users/12945156/renato-de-oliveira-lucena-deve
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
